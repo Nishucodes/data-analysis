@@ -1,27 +1,25 @@
-# SQL Practice Repository
+# Data Analysis Project
 
-This repository is where I practice and demonstrate my SQL skills. It contains a collection of queries and examples designed to explore core database concepts and improve my SQL proficiency.
+## Project Overview
+This project demonstrates my skills in Excel, SQL, Python (Pandas), and Data Visualization.
 
----
+## Dataset
+- CSV file containing sample data for analysis
 
-## Topics Covered :
-- **SQL Basics**
-- **Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN)** 
-- **Subqueries**
-- **SQL Functions**
-- **Common Table Expressions (CTEs)**
-- **Query Optimization**
-- **Window Functions**
-- **Aggregation with GROUP BY**
-- **Correlated Queries**
-- **Case Statements**
-- **Set Operations**
+## Tools & Skills Used
+- Excel: Data cleaning, Pivot Tables, Dashboard
+- SQL: data extraction, tranformation, aggregation
+- Python: Pandas for data manipulation
+- Data Visualization: Charts & Graphs
 
----
+## Tasks Performed
+- Data cleaning and preparation
+- Data analysis using SQL and Python
+- Creating visualizations for insights
+- Generating reports
 
-## Purpose:
-This repository serves as a personal collection for learning, practicing, and sharing SQL concepts. It reflects both my foundational knowledge and my exploration of advanced topics.
+## Output
+- CSV files and screenshots of visualizations included
 
----
-
-Feel free to explore and learn along with me. Happy querying! 😊
+## Conclusion
+This project shows my ability to work with real-world data and provide actionable insights.
